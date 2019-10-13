@@ -1,0 +1,75 @@
+Problema:java.sql.SQLException: Column count doesn't match value count at row 1
+Classe:com.br.helpcenter.dao.ClienteDAO
+Data:03/01/2018 14:46:56
+
+Problema:java.sql.SQLException: Column count doesn't match value count at row 1
+Classe:com.br.helpcenter.dao.ClienteDAO
+Data:03/01/2018 14:46:58
+
+Problema:java.sql.SQLException: Column count doesn't match value count at row 1
+Classe:com.br.helpcenter.dao.MovimentoDao
+Data:03/01/2018 14:47:04
+
+Problema:java.sql.SQLException: Column count doesn't match value count at row 1
+Classe:com.br.helpcenter.dao.MovimentoDao
+Data:03/01/2018 14:47:06
+
+Problema:java.sql.SQLException: Column count doesn't match value count at row 1
+Classe:com.br.helpcenter.dao.MovimentoDao
+Data:03/01/2018 14:47:07
+
+Problema:java.sql.SQLException: Column count doesn't match value count at row 1
+Classe:com.br.helpcenter.dao.ClienteDAO
+Data:03/01/2018 14:47:08
+
+Problema:java.sql.SQLException: Column count doesn't match value count at row 1
+Classe:com.br.helpcenter.dao.ClienteDAO
+Data:03/01/2018 14:47:09
+
+Problema:java.sql.SQLException: Data truncated for column 'c_tipoos' at row 1
+Classe:com.br.helpcenter.dao.OSDAO
+Data:06/01/2018 11:37:47
+
+Problema:java.sql.SQLException: Data truncated for column 'c_tipoos' at row 1
+Classe:com.br.helpcenter.dao.OSDAO
+Data:06/01/2018 11:41:45
+
+Problema:java.sql.SQLException: Data truncated for column 'c_tipoos' at row 1
+Classe:com.br.helpcenter.dao.OSDAO
+Data:06/01/2018 11:48:19
+
+Problema:com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS os ON os.n_idcabno = cn.n_idcabno WHERE cn.c_eoscabno = 'S' AND os.c_temntos ' at line 1
+Classe:com.br.helpcenter.dao.NotaOSDAO
+Data:15/01/2018 14:05:24
+
+Problema:com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND os.n_idclien = cn.n_idclien AND cn.n_idcabno = os.n_idcabno WHERE cn.c_eosca' at line 1
+Classe:com.br.helpcenter.dao.NotaOSDAO
+Data:15/01/2018 14:11:10
+
+Problema:com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'cl.n_idclien' in 'field list'
+Classe:com.br.helpcenter.dao.NotaOSDAO
+Data:15/01/2018 14:14:05
+
+Problema:com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'cl.n_idclien' in 'field list'
+Classe:com.br.helpcenter.dao.NotaOSDAO
+Data:15/01/2018 14:15:55
+
+Problema:com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'cl.n_idclien' in 'field list'
+Classe:com.br.helpcenter.dao.NotaOSDAO
+Data:15/01/2018 14:16:37
+
+Problema:com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'os.n_numeos' in 'field list'
+Classe:com.br.helpcenter.dao.NotaOSDAO
+Data:15/01/2018 14:18:42
+
+Problema:java.sql.SQLException: Column 'os.n_numeos' not found.
+Classe:com.br.helpcenter.dao.NotaOSDAO
+Data:15/01/2018 14:19:56
+
+Problema:com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'c_fpriclien' at row 1
+Classe:com.br.helpcenter.dao.ClienteDAO
+Data:29/01/2018 13:30:54
+
+Problema:com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'c_fpriclien' at row 1
+Classe:com.br.helpcenter.dao.ClienteDAO
+Data:29/01/2018 13:31:23

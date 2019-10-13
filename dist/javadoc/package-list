@@ -1,0 +1,7 @@
+com.br.helpcenter.bean
+com.br.helpcenter.controller
+com.br.helpcenter.dao
+com.br.helpcenter.jdbc
+com.br.helpcenter.model
+com.br.helpcenter.util
+com.br.helpcenter.view
